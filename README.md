@@ -1,2 +1,2 @@
 # DBA-Notes
-Diagnostic and Tuning Queries!
+Diagnostic and Tuning Queries!!!
